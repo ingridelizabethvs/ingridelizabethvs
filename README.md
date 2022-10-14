@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ingridelizabethvs
+- 👋 Hi community! I’m @ingridelizabethvs. I can talk in english, spanish, deutsch, and some russian ♥
 - 👀 I’m interested in cyberdevops
 - 🌱 I’m currently learning Full stack devops
-- 💞️ I’m looking to collaborate on CERT.AR
+- 💞️ I’m looking to collaborate on CERT.AR or Sex work Global Associations
 - 📫 How to reach me: /ingridelizabeth on Linkedin!
 
 <!---
